@@ -6,9 +6,23 @@
 - **Topics:** String
 
 ## Problem Statement
-You have successfully completed this problem!
+Given two strings s and t, return true if the two strings are anagrams of each other, otherwise return false.
 
-Console
+An anagram is a string that contains the exact same characters as another string, but the order of the characters can be different.
+
+Example 1:
+
+Input: s = "racecar", t = "carrace"
+
+Output: trueExample 2:
+
+Input: s = "jar", t = "jam"
+
+Output: falseConstraints:
+
+1 <= s.length, t.length <= 5 * 10^4
+
+s and t consist of lowercase English letters.
 
 ## Approach
 _Add your approach notes here._
